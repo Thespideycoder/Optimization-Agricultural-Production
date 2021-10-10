@@ -11,4 +11,4 @@ Accuracy of the model : 97%
 ***
 Result:
 
-![Result](C:\\Users\\Mahesh\\Desktop\\Screenshot_1.png)
+![Screenshot_1](https://user-images.githubusercontent.com/65063352/136682763-4cee18b9-363c-42ea-b315-d68da1eb73ed.png)
